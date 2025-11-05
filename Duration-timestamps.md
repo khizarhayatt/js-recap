@@ -1,7 +1,7 @@
 00:00:00 - Javascript for beginners #done
 00:05:04 - Setting up environment  #done
 00:16:53 - Save and work on GitHub  #done
-00:27:14 - Let const var  #done
+00:27:14 - Let const var  #done 
 00:43:54 - Datatypes and ECMA standards  # done
 01:01:55 - Datatyope conversion confusion  # done
 01:14:46 - Why string to number # done
